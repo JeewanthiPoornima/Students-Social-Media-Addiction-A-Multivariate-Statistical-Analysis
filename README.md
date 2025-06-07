@@ -1,4 +1,6 @@
-# Students-Social-Media-Addiction-A-Multivariate-Statistical-Analysis
+# Students' Social Media Addiction: A Multivariate Statistical Analysis
+
+Course Project – DSC4033 / STA4053: Multivariate Methods II
 
 This project investigates the patterns and consequences of social media addiction among university students using advanced multivariate statistical techniques. The analysis draws on a dataset of 705 students, collected via an online survey that includes demographic, behavioral, and psychological variables.
 
